@@ -11,3 +11,9 @@ I love **Arabian Fried chicken Mandi** because it has a rich blend of spices and
 2. Downtown Arabian Cuisine (15 mins away)
 3. International Food Market (30 mins away)
 
+
+- Mayonnaise
+
+- Shawarma
+
+- Mutton soup
