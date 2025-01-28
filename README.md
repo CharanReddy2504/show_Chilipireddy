@@ -34,3 +34,14 @@ In the movie *Kaithi*, Karthi delivered an exceptional performance in the lead r
 | Ram Charan         | Exceptional intensity and depth  | 39    |
 
 
+---
+
+## Favorite Quotes
+
+> "Your strength doesn’t come from winning. It comes from struggles and hardship. Everything that you go through prepares you for the next level."  
+> *- Nandamuri Taraka Rama Rao Jr.*
+
+> "Hard work and perseverance will always outshine talent. Never stop trying."  
+> *- Nandamuri Taraka Rama Rao Jr.*
+
+
