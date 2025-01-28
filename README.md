@@ -20,3 +20,17 @@ I love **Arabian Fried chicken Mandi** because it has a rich blend of spices and
 
 ## About My Favorite Movie
 [Regarding my Favorite Movie](./Mymovie.md)
+
+---
+## Suggested Actors for Kaithi
+
+In the movie *Kaithi*, Karthi delivered an exceptional performance in the lead role. Below is a table of actors who could bring unique perspectives to the role, along with the reasons for my choices and their ages.
+
+| **Suggested Actor** | **Reason**                      | **Age** |
+|--------------------|----------------------------------|-------|
+| Allu Arjun         | Known for versatile performances | 42    |
+| Kalyan Ram         | Iconic action and charisma       | 47    |
+| Akhil Akkineni     | Bold and intense acting skills   | 31    |
+| Ram Charan         | Exceptional intensity and depth  | 39    |
+
+
