@@ -17,3 +17,6 @@ I love **Arabian Fried chicken Mandi** because it has a rich blend of spices and
 - Shawarma
 
 - Mutton soup
+
+## About My Favorite Movie
+[Regarding my Favorite Movie](./Mymovie.md)
