@@ -7,6 +7,6 @@
 
 What makes this movie special to me is the *raw emotions* and intense action sequences. The absence of a typical commercial format (no songs or romance) makes it a refreshing and unique cinematic experience. The brilliant performance by Karthi, combined with Lokesh Kanagaraj's fantastic direction, truly elevates the movie.
 
-![Karthi] (Karthi.jpg)
+![Karthi](./Karthi.jpg)
 
 
