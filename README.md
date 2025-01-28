@@ -45,3 +45,18 @@ In the movie *Kaithi*, Karthi delivered an exceptional performance in the lead r
 > *- Nandamuri Taraka Rama Rao Jr.*
 
 
+---
+
+```javascript
+function factorial(n) {
+    if (n === 0) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}
+
+console.log(factorial(5)); // Output: 120
+
+
+
+
